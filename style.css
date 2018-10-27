@@ -1,0 +1,20 @@
+.main-paragraph {
+    color: blue;
+    text-align: center;
+    font-size: xx-large;
+    border-style: solid;
+}
+
+li {
+    color: red;
+}
+#first-li {
+    font-weight: bold;
+}
+ul {
+    border-style: solid;
+}
+
+.img-one {
+    border: 1px solid black;
+}
